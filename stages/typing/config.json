@@ -1,0 +1,76 @@
+{
+    "paths": [
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/web/tmpfs/snap.jpg"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/cgi-bin/hi3510/param.cgi"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/web/admin.html"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/web/cgi-bin/hi3510/param.cgi"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/web/mainpage.html"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/web/blank.html"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/cgi-bin/hi3510/ptzctrl.cgi"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/sitemap.xml"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/robots.txt"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/.well-known/security.txt"
+        },
+        {
+            "methods": [
+                "GET"
+            ],
+            "path": "/description.xml"
+        }
+    ]
+}
